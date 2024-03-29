@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lalaki-u-boot-tool", "lalaki-u-boot-tool.csproj", "{BD9DE93B-0D35-4EDF-B802-1D4BDAAAE0F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		MsWin|x86 = MsWin|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD9DE93B-0D35-4EDF-B802-1D4BDAAAE0F7}.MsWin|x86.ActiveCfg = MsWin|x86
+		{BD9DE93B-0D35-4EDF-B802-1D4BDAAAE0F7}.MsWin|x86.Build.0 = MsWin|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A27208-81B3-4EEB-970F-37C370778D43}
+	EndGlobalSection
+EndGlobal
