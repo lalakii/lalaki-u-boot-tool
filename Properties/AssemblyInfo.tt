@@ -1,0 +1,10 @@
+﻿<#@ template language="C#" #>
+using System.Reflection;
+using System.Runtime.InteropServices;
+[assembly: AssemblyVersion("<#=DateTime.Now.ToString("yyyy.M.dd.HH")#>")]
+[assembly: AssemblyFileVersion("<#=DateTime.Now.ToString("yyyy.M.dd.HH")#>")]
+[assembly: AssemblyCopyright("Copyright (C) <#=DateTime.Now.Year#> lalaki.cn")]
+[assembly: AssemblyTitle("lalaki-u-boot-tool")]
+[assembly: AssemblyProduct("lalaki-u-boot-tool")]
+[assembly: AssemblyDescription("lalaki-u-boot-tool")]
+[assembly: ComVisible(false)]
