@@ -1,6 +1,6 @@
 # lalaki-u-boot-tool
 
-[![Windows .exe program](https://raster.shields.io/badge/Windows%20.exe-program-blue.png)](https://ru.wikipedia.org/wiki/.EXE)
+[![Windows .exe program](https://img.shields.io/badge/windows-.exe-0078D4?logo=windows)](https://ru.wikipedia.org/wiki/.EXE)
 
 [English](README.md)  | [中文](README_zh.md)
 
